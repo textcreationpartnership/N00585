@@ -110,8 +110,8 @@
    <text xml:lang="eng">
       <body>
          <div type="report">
-            <pb facs="tcp:0FAB3F251F830440:000715_0000_0FAA0A07AAF6E6C0"/>
-            <pb facs="tcp:0FAB3F251F830440:000715_0001_0FAA0A04EE449AC0"/>
+            <pb facs="unknown:000715_0000_0FAA0A07AAF6E6C0"/>
+            <pb facs="unknown:000715_0001_0FAA0A04EE449AC0"/>
             <head>THE EARTHQUAKE</head>
             <opener>
                <dateline>NAPLES; <date>
